@@ -1,5 +1,5 @@
 {
-    "name": "CefasPedro/Conecta",
+    "name": "cefaspedro/conecta",
     "description": "Conecta ao banco de dados usando o pattern Singleton.",
     "license": "MIT",
     "keywords": ["conecta"],
