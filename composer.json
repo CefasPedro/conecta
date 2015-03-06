@@ -1,0 +1,21 @@
+{
+    "name": "CefasPedro/Conecta",
+    "description": "Conecta ao banco de dados usando o pattern Singleton.",
+    "license": "MIT",
+    "keywords": ["conecta"],
+    "authors": [
+        {
+            "name": "Pedro Rocha",
+            "email": "cefas.pedro.rocha@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "CefasPedro\\Conecta\\": "src"
+        }
+    }
+}
